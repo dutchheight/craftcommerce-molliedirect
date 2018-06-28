@@ -1,0 +1,6 @@
+# COMPOSER
+molliedirect/vendor
+
+# MISC FILES
+.cache
+.DS_Store
